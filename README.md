@@ -11,6 +11,7 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 - Motor stepper nema 20
 - Tiras led
 - Perilla
+- Driver motor
 
 
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/9/9c/M3dixentrega3DiVaI_%283%29.jpeg)
