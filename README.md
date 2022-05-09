@@ -13,7 +13,7 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 - Perilla
 
 
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/9/9c/M3dixentrega3DiVaI_%283%29.jpeg/300px)
+![Imagen maqueta](https://wiki.ead.pucv.cl/images/9/9c/M3dixentrega3DiVaI_%283%29.jpeg)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
