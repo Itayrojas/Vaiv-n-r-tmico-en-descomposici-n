@@ -1,6 +1,19 @@
-# Nombre del Proyecto
+# Vaivén rítmico en descomposición
+### Valeria Martinez, Itay Rojas y Diego Torres
 
-![Foto Representativa del Proyecto](https://picsum.photos/400/300?grayscale)
+En este proyecto se basa en la descomposición de un cuerpo general dividido en marcos luminicos que al interactuar con el espectador se acciona el vaiven de estos. Entonces un gran cuerpo fragmentado donde sus fragmentos van y vienen en una composición movil general.
+
+El movimiento, luces y su intensidad son las variables que podran interactuar con el usuario.
+
+## Herramientas y Teconología
+- Fuente de poder
+- Arduino 1
+- Motor stepper nema 20
+- Tiras led
+- Perilla
+
+
+![Foto Representativa del Proyecto](https://wiki.ead.pucv.cl/Archivo:M3dixentrega3DiVaI_(3).jpeg)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
