@@ -9,6 +9,13 @@ Con sutileza cada uno de estos factores se unifica para crear un solo gesto que 
 
 Para lograr una estructura y propuesta constructiva se busca comunicar estas cualidades. Para esto se necesita traslados de cuerpos que sigan una secuencia, pero a la vez que se vea interrumpida pero controlada por la interacción de la persona con el cuerpo mecánico.
 
+## Carpetas
+
+<ul>
+ <li> CAM </li>
+ <li> CAD </li>
+</ul>
+
 ## Herramientas y Teconología
 <ul>
 <li>Junquillos 2x2cm </li>
