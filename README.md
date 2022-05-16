@@ -16,7 +16,9 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 <li>Papel diamante</li>
 <li>Vinilo Blanco Mate</li>
 </ul>
-### Materiales electrónicos
+
+<h3> Materiales electrónicos </h3>
+
 <ul>
 <li>Arduino Uno</li>
 <li>Cables</li>
