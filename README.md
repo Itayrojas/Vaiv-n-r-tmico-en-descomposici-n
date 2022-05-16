@@ -16,7 +16,6 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 <li>Papel diamante</li>
 <li>Vinilo Blanco Mate</li>
 
-  </ul>
 ###Materiales electrónicos
 -Arduino Uno
 -Cables
@@ -25,7 +24,7 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 -Potenciómetro
 -Fuente de poder
 
-  </ul>
+ </ul>
 
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/9/9c/M3dixentrega3DiVaI_%283%29.jpeg)
 
