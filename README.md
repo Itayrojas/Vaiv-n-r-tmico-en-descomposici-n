@@ -10,11 +10,11 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 <li>Junquillos 2x2cm </li>
 <li>MDF</li>
 <li>Adoquín de concreto</li>
-<li>Puntas
-<li>Clavos
-<li>Ruedas de riel
-<li>Papel diamante
-<li>Vinilo Blanco Mate
+<li>Puntas </li>
+<li>Clavos</li>
+<li>Ruedas de riel</li>
+<li>Papel diamante</li>
+<li>Vinilo Blanco Mate</li>
 
   </ul>
 ###Materiales electrónicos
