@@ -29,7 +29,7 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 
  </ul>
 
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/e/ea/Vistasfrontalesdixentrega3DiVaI_%283%29.png/400/300)
+![Imagen maqueta](https://wiki.ead.pucv.cl/images/e/ea/Vistasfrontalesdixentrega3DiVaI_%283%29.png /400/300)
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/8/86/Finaldixentrega3DiVaI_%282%29.png/200px-Finaldixentrega3DiVaI_%282%29.png)
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/c/ce/Finaldixentrega3DiVaI_%284%29.png/200px-Finaldixentrega3DiVaI_%284%29.png)
