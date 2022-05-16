@@ -1,4 +1,4 @@
-# Vaivén rítmico en descomposición
+# Vaivén secuencial en descomposición
 ##### Valeria Martinez, Itay Rojas y Diego Torres
 
 En este proyecto se basa en la descomposición de un cuerpo general dividido en marcos luminicos que al interactuar con el espectador se acciona el vaiven de estos. Entonces es un gran cuerpo fragmentado donde sus fragmentos van y vienen en una composición movil general.
