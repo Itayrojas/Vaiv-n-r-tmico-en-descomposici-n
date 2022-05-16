@@ -6,12 +6,23 @@ En este proyecto se basa en la descomposición de un cuerpo general dividido en 
 El movimiento, luces y su intensidad son las variables que podran interactuar con el usuario.
 
 ## Herramientas y Teconología
-- Fuente de poder
-- Arduino 1
-- Motor stepper nema 20
-- Tiras led
-- Perilla
-- Driver motor
+
+*Junquillos 2x2cm
+*MDF
+*Adoquín de concreto
+*Puntas
+*Clavos
+*Ruedas de riel
+*Papel diamante
+*Vinilo Blanco Mate
+
+'''Materiales electrónicos'''
+*Arduino Uno
+*Cables
+*Luces LED 1 watt (Rojas y azul)
+*Motor servo 
+*Potenciómetro
+*Fuente de poder
 
 
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/9/9c/M3dixentrega3DiVaI_%283%29.jpeg)
