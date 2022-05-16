@@ -15,14 +15,15 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 <li>Ruedas de riel</li>
 <li>Papel diamante</li>
 <li>Vinilo Blanco Mate</li>
-
-###Materiales electrónicos
--Arduino Uno
--Cables
--Luces LED 1 watt (Rojas y azul)
--Motor servo 
--Potenciómetro
--Fuente de poder
+</ul>
+### Materiales electrónicos
+<ul>
+<li>Arduino Uno</li>
+<li>Cables</li>
+<li>Luces LED 1 watt (Rojas y azul)</li>
+<li>Motor servo </li>
+<li>Potenciómetro</li>
+<li>Fuente de poder</li>
 
  </ul>
 
