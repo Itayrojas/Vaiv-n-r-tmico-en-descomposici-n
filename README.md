@@ -14,6 +14,7 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 <ul>
  <li> CAM </li>
  <li> CAD </li>
+ <li> INO </li>
 </ul>
 
 ## Herramientas y Teconología
@@ -42,10 +43,11 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 
 ## Visualización Totem
 
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/e/ea/Vistasfrontalesdixentrega3DiVaI_%283%29.png)
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/8/86/Finaldixentrega3DiVaI_%282%29.png/200px-Finaldixentrega3DiVaI_%282%29.png)
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/c/ce/Finaldixentrega3DiVaI_%284%29.png/200px-Finaldixentrega3DiVaI_%284%29.png)
+![Imagen maqueta](https://wiki.ead.pucv.cl/images/3/3c/Maqueta_TDIX2022%2CIVD.png)
+![Vistas](https://wiki.ead.pucv.cl/images/e/ea/Vistasfrontalesdixentrega3DiVaI_%283%29.png)
+![Vistas](https://wiki.ead.pucv.cl/images/thumb/8/86/Finaldixentrega3DiVaI_%282%29.png/200px-Finaldixentrega3DiVaI_%282%29.png)
+![Vistas](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
+![Vistas](https://wiki.ead.pucv.cl/images/thumb/c/ce/Finaldixentrega3DiVaI_%284%29.png/200px-Finaldixentrega3DiVaI_%284%29.png)
 ![Gif maqueta](https://wiki.ead.pucv.cl/images/e/e9/Finaldixentrega3DiVaI_%285%29.gif)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
