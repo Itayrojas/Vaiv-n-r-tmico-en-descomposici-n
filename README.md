@@ -6,16 +6,17 @@ En este proyecto se basa en la descomposición de un cuerpo general dividido en 
 El movimiento, luces y su intensidad son las variables que podran interactuar con el usuario.
 
 ## Herramientas y Teconología
+<ul>
+<li>Junquillos 2x2cm </li>
+<li>MDF</li>
+<li>Adoquín de concreto</li>
+<li>Puntas
+<li>Clavos
+<li>Ruedas de riel
+<li>Papel diamante
+<li>Vinilo Blanco Mate
 
--Junquillos 2x2cm
--MDF
--Adoquín de concreto
--Puntas
--Clavos
--Ruedas de riel
--Papel diamante
--Vinilo Blanco Mate
-
+  </ul>
 ###Materiales electrónicos
 -Arduino Uno
 -Cables
@@ -24,6 +25,7 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 -Potenciómetro
 -Fuente de poder
 
+  </ul>
 
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/9/9c/M3dixentrega3DiVaI_%283%29.jpeg)
 
