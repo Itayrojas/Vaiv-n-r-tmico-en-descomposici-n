@@ -1,9 +1,13 @@
 # Vaivén secuencial en descomposición
 ##### Valeria Martinez, Itay Rojas y Diego Torres
 
-En este proyecto se basa en la descomposición de un cuerpo general dividido en marcos luminicos que al interactuar con el espectador se acciona el vaiven de estos. Entonces es un gran cuerpo fragmentado donde sus fragmentos van y vienen en una composición movil general.
+Luego de un trabajo de observación, se conversa las situaciones observadas; estas tienes factores en común, como el movimiento y la forma de desenvolver la gestualidad.
 
-El movimiento, luces y su intensidad son las variables que podran interactuar con el usuario.
+Los movimientos observados tienden y se desarrollan en una descomposición, mediante la contracción y extensión de los cuerpos, provocando un desplazamiento en un espacio. Estos movimientos por lo general formaban una secuencia y/o frecuencia repetitiva, que en ocasiones se podía ver interrumpida o fragmentada.
+
+Con sutileza cada uno de estos factores se unifica para crear un solo gesto que posee múltiples respuestas.
+
+Para lograr una estructura y propuesta constructiva se busca comunicar estas cualidades. Para esto se necesita traslados de cuerpos que sigan una secuencia, pero a la vez que se vea interrumpida pero controlada por la interacción de la persona con el cuerpo mecánico.
 
 ## Herramientas y Teconología
 <ul>
