@@ -1,4 +1,2 @@
 # cam
-
-Archivos para la fabricación, por ejemplo archivos de corte láser, de router o impresión 3D, entre otros.
-Por favor indicar configuraciones y calibraciones así como máquinas empleadas.
+En esta carpeta se encuentran los archivos para usar en maquina laser y para plotter de corte, en este caso se uso la maquina "Cameo Plus". Las partes usadas en el motor, output son hechas en MDF y cortadas en lasers, mientras que los paneles son de vinilo blanco mate autoadhesivo y cortado con la maquina "Cameo Plus" para luego ser pegados en los marcos de madera moviles.
