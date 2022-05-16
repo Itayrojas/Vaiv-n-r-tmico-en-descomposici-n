@@ -29,7 +29,7 @@ El movimiento, luces y su intensidad son las variables que podran interactuar co
 
  </ul>
 
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/e/ea/Vistasfrontalesdixentrega3DiVaI_%283%29.png)
+![Imagen maqueta](https://wiki.ead.pucv.cl/images/e/ea/Vistasfrontalesdixentrega3DiVaI_%283%29.png =100x40)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
