@@ -39,7 +39,7 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/8/86/Finaldixentrega3DiVaI_%282%29.png/200px-Finaldixentrega3DiVaI_%282%29.png)
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
 ![Imagen maqueta](https://wiki.ead.pucv.cl/images/thumb/c/ce/Finaldixentrega3DiVaI_%284%29.png/200px-Finaldixentrega3DiVaI_%284%29.png)
-![Gif maqueta](https://wiki.ead.pucv.cl/images/e/e9/Finaldixentrega3DiVaI_%285%29.gif)
+![Gif maqueta](https://wiki.ead.pucv.cl/images/e/e9/Finaldixentrega3DiVaI_%285%29.gif.gif)
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
