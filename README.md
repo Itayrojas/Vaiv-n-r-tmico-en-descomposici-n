@@ -9,6 +9,12 @@ Con sutileza cada uno de estos factores se unifica para crear un solo gesto que 
 
 Para lograr una estructura y propuesta constructiva se busca comunicar estas cualidades. Para esto se necesita traslados de cuerpos que sigan una secuencia, pero a la vez que se vea interrumpida pero controlada por la interacción de la persona con el cuerpo mecánico.
 
+## Carpetas de archivos de impresion y codigos
+
+[!CAD](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cad)
+[!CAM](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cam)
+[!INO](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/ino)
+
 ## Herramientas y Teconología
 <ul>
 <li>Junquillos 2x2cm </li>
@@ -41,6 +47,7 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/c/ce/Finaldixentrega3DiVaI_%284%29.png/200px-Finaldixentrega3DiVaI_%284%29.png)
 ![Gif maqueta](https://wiki.ead.pucv.cl/images/e/e9/Finaldixentrega3DiVaI_%285%29.gif)
+
 
 Este repositorio es solamente una plantilla que sirve como base para estructurar una documentación ordernada de un proyecto de Diseño. 
 
