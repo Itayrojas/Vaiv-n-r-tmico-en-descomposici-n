@@ -11,10 +11,13 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 
 ## Carpetas de archivos de impresion y codigos
 
-- [!CAD](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cad)
-- [!CAM](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cam)
-- [!INO](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/ino)
-
+- [CAD](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cad)
+  En la carpeta CAD se encuentran los archivos de modelado 3D, dibujos y archivos para x 
+- [CAM](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cam)
+  En la carpeta CAM
+- [INO](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/ino)
+  En la carpeta INO
+  
 ## Herramientas y Teconología
 <ul>
 <li>Junquillos 2x2cm </li>
