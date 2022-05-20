@@ -50,11 +50,12 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 
 ## Visualización Totem
 
-![Vistas](https://wiki.ead.pucv.cl/images/d/dd/Vistasfrontalesdixentrega3totem2.png)
+![Gif maqueta](https://wiki.ead.pucv.cl/images/e/e9/Finaldixentrega3DiVaI_%285%29.gif)
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/8/86/Finaldixentrega3DiVaI_%282%29.png/200px-Finaldixentrega3DiVaI_%282%29.png)
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/c/ce/Finaldixentrega3DiVaI_%284%29.png/200px-Finaldixentrega3DiVaI_%284%29.png)
-![Gif maqueta](https://wiki.ead.pucv.cl/images/e/e9/Finaldixentrega3DiVaI_%285%29.gif)
+![Vistas](https://wiki.ead.pucv.cl/images/d/dd/Vistasfrontalesdixentrega3totem2.png)
+
 
 
 
