@@ -20,9 +20,9 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 - [CAD](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cad)
   En la carpeta CAD se encuentran los archivos de modelado 3D, dibujos, archivos de inventor y archivos autocad, tamben contiene las planimetrias y modelos de ensamble.
 - [CAM](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/cam)
-  En la carpeta CAM se encuentran los archivos para usar en maquina laser y para plotter de corte, en este caso se uso la maquina "Cameo Plus". Las partes usadas en el motor, output son hechas en MDF y cortadas en lasers, mientras que los paneles son de vinilo blanco mate autoadhesivo y cortado con la maquina "Cameo Plus" para luego ser pegados en los marcos de madera moviles.
+  En la carpeta CAM se encuentran los archivos para usar en maquina laser y para plotter de corte, en este caso se uso la maquina "Cameo Plus". O sea archivos 2D de corte.
 - [INO](https://itayrojas.github.io/Vaiven_Secuencial_en_Descomposicion/ino)
-  En la carpeta INO estan los codigos necesarios para poder programar las luces LED y motor stepper. Tambien con 
+  En la carpeta INO estan los codigos necesarios para poder programar las luces LED y motor servo. Tambien cuenta con los diagramas de cableado entre los dispositivos y el arduino uno.
   
 ## Herramientas y Teconología
 <ul>
