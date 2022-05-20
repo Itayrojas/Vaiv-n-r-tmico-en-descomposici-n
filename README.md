@@ -1,5 +1,6 @@
 # Vaivén secuencial en descomposición
 ##### Valeria Martinez, Itay Rojas y Diego Torres
+![Imagen maqueta](https://wiki.ead.pucv.cl/images/3/3c/Maqueta_TDIX2022%2CIVD.png)
 
 # Descrpición del encargo:
 Trabajo grupal de 3 personas. A partir de las observaciones realizadas por cada uno, el grupo define 3 espacios gestuales (entendidos estos como un rango contínuo desde un mínimo a un máximo de expresión) acoplados a un gesto de control por parte del usuario. Esta operación arrojará 3 pares de gestualidades del usuario - rangos expresivos del cuerpo; es decir, 3 pares de formas de input y formas de output. El encargo estipula que estos pares son rangos continuos y no espacios discretos. El encargo consiste en integrar estos 3 rangos en un cuerpo expresivo que permita manipular tales rangos de forma conjunta o independiente.
@@ -49,7 +50,6 @@ Para lograr una estructura y propuesta constructiva se busca comunicar estas cua
 
 ## Visualización Totem
 
-![Imagen maqueta](https://wiki.ead.pucv.cl/images/3/3c/Maqueta_TDIX2022%2CIVD.png)
 ![Vistas](https://wiki.ead.pucv.cl/images/d/dd/Vistasfrontalesdixentrega3totem2.png)
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/8/86/Finaldixentrega3DiVaI_%282%29.png/200px-Finaldixentrega3DiVaI_%282%29.png)
 ![Vistas](https://wiki.ead.pucv.cl/images/thumb/b/bf/Finaldixentrega3DiVaI_%283%29.png/200px-Finaldixentrega3DiVaI_%283%29.png)
