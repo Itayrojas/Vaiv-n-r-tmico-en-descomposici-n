@@ -4,7 +4,7 @@
 # Descrpición del encargo:
 Trabajo grupal de 3 personas. A partir de las observaciones realizadas por cada uno, el grupo define 3 espacios gestuales (entendidos estos como un rango contínuo desde un mínimo a un máximo de expresión) acoplados a un gesto de control por parte del usuario. Esta operación arrojará 3 pares de gestualidades del usuario - rangos expresivos del cuerpo; es decir, 3 pares de formas de input y formas de output. El encargo estipula que estos pares son rangos continuos y no espacios discretos. El encargo consiste en integrar estos 3 rangos en un cuerpo expresivo que permita manipular tales rangos de forma conjunta o independiente.
 
-#Fundamento
+# Fundamento
 
 Luego de un trabajo de observación, se conversa las situaciones observadas; estas tienes factores en común, como el movimiento y la forma de desenvolver la gestualidad.
 
