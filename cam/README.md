@@ -5,12 +5,12 @@ En esta carpeta se encuentran los archivos para usar en maquina laser y para plo
 
 ## Archivos estructura
 
-[Archivo Base Arriba](Base Arriba.dxf)
-[Archivo Base inferior](Base inferior - Extension Potenciometro.dxf)
-[Archivo Brazo motor](Brazos (Motor 1).dxf)
+- [Archivo Base Arriba](Base Arriba.dxf)
+- [Archivo Base inferior](Base inferior - Extension Potenciometro.dxf)
+- [Archivo Brazo motor](Brazos (Motor 1).dxf)
 
 ## Archivos paneles (vinilo)
 
-[Archivo panel chico](panel chico papel diamante.ai)
-[Archivo panel mediano](panel mediano papel diamante.ai)
-[Archivo panel grande](panel grande papel diamante.ai)
+- [Archivo panel chico](panel chico papel diamante.ai)
+- [Archivo panel mediano](panel mediano papel diamante.ai)
+- [Archivo panel grande](panel grande papel diamante.ai)
